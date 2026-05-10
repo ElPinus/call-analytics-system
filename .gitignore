@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE / editors
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Local notes that aren't part of the public case-study
+private/
+notes-private/
+drafts/
+
+# Build artifacts (none expected, but just in case)
+build/
+dist/
+*.pdf
+*.docx
